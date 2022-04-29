@@ -6,7 +6,7 @@
 
 - :dart: I´m looking for collaboration in Integer Programming, Mixed Integer Programming, Linear Programming and heuristics applied to real world problems.
 
-- I work remotely with operations research and data science projects. 
+- I work remotely in operations research and data science projects. 
  
 - 📫 You can contact me at brunojen@gmail.com, in English or Portuguese.
 
